@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: >-
+  Das Internet vergisst doch – Handreichung für die
+  Archivierung von wissenschaftlichen Webseiten
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Andreas
+    family-names: Frech
+    orcid: 'https://orcid.org/0000-0002-1458-1163'
+    affiliation: Ludwig-Maximilians-Universität München
+  - given-names: Yves Vincent
+    family-names: Grossmann
+    affiliation: Max Planck Digital Library
+    orcid: 'https://orcid.org/0000-0002-2880-8947'
+repository-code: >-
+  https://github.com/UB-LMU/Webseitenarchivierung_BestPracticeGuide
+keywords:
+  - Archivierung
+  - Webseite
+license: CC-BY-4.0
