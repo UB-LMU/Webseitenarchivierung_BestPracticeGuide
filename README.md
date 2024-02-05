@@ -1,5 +1,7 @@
 # Webseitenarchivierung - Best Practice Guide
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10556375.svg)](https://doi.org/10.5281/zenodo.10556375)
+
 ## Name
 "Das Internet vergisst doch - Handreichung für die Archivierung von wissenschaftlichen Webseiten" / "The Internet does forget - Guidelines for the archiving of scientific websites"
 
