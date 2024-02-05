@@ -15,8 +15,21 @@ authors:
     family-names: Grossmann
     affiliation: Max Planck Digital Library
     orcid: 'https://orcid.org/0000-0002-2880-8947'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10556375
 repository-code: >-
   https://github.com/UB-LMU/Webseitenarchivierung_BestPracticeGuide
+abstract: >-
+  This repository organises a text as a guide and
+  accompanying material for the archiving of scientific
+  project websites. The text is written in German and
+  translated into English. The handouts provide an overview
+  of the main topics relating to the archiving of scientific
+  project websites. In addition to the explanatory texts,
+  essential questions on the sections are offered again and
+  again. All of this is supplemented by footnotes with the
+  relevant literature and helpful online links.
 keywords:
   - Archivierung
   - Webseite
